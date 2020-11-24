@@ -1,0 +1,8 @@
+﻿Build started 11/17/2019 11:45:11 AM.
+     1>Project "D:\UCP\Semester 3\OOP\lecture_06 (HugeInt) [PART-1]\HugeInt\HugeInt\HugeInt.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v142 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, please install v142 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>Done Building Project "D:\UCP\Semester 3\OOP\lecture_06 (HugeInt) [PART-1]\HugeInt\HugeInt\HugeInt.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.06
